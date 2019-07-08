@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=hotelRooms()
+comment1.params=
+comment1.target=void\ reset()
+comment2.params=
+comment2.target=void\ printArray()
+comment3.params=
+comment3.target=void\ printMostNeighbors()
+comment4.params=r\ c
+comment4.target=int\ howManyNearby(int,\ int)
+numComments=5
